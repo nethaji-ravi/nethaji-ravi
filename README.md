@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
----- 
+
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/156navin" target="_blank">
