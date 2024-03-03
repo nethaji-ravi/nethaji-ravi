@@ -61,8 +61,6 @@ You can click the Preview link to take a look at your changes.
 ----
 
 
-<h3 align="left">Languages and Tools:</h3>
-
 ## My Skill Set  
 <!-- <table width="100%"> 
 <tr><td valign="top" width="50%"> 
