@@ -39,9 +39,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+<div>
 <h3 align="center">A passionate Software developer.</h3>
-
+</div>
   
 
 <br/>  
