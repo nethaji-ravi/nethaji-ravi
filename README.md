@@ -108,7 +108,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <table><tr><td valign="top" width="33%"> -->
 
 
-<div style="display:flex">
+<div style="display:flex;">
 <div align="right" style="width: 50%;">
 <!--### Frontend  -->
 <div align="left">  
