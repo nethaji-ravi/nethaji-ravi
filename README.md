@@ -105,10 +105,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ## My Skill Set  
-<table width="100%">
+<!-- <table width="100%"> -->
 <tr><td valign="top" width="50%"> 
-<div style="display:flex;">
-<div align="right" style="width: 50%;">
+<!-- <div style="display:flex;"> 
+<div align="right" style="width: 50%;"> -->
 ### Frontend  
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -117,13 +117,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
-</td>
-
-<!--</td><td valign="top" width="33%">-->
-
-<td width:50%>
-<div align="left" style="width: 50%;">
-<!-- ### Backend  --> 
+<!-- </td>
+</td><td valign="top" width="33%"> 
+<td width:50%> 
+<div align="left" style="width: 50%;"> -->
+### Backend  
 <div align="left">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -134,9 +132,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
  </div>
-  </td>
+<!--  </td>
 </div>
-<!-- </td><td valign="top" width="33%"> -->
+ </td><td valign="top" width="33%"> -->
 
 
 
