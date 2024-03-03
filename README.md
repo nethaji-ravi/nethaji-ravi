@@ -1,3 +1,6 @@
+ <p align="right">  ![Profile views counter](https://komarev.com/ghpvc/?username=nethaji-ravi&&style=flat-square)  </p>
+
+
 - 👋 Hi, I’m @nethaji-ravi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...
@@ -11,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer.</h3>
 
   
 
