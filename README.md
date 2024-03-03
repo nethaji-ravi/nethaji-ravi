@@ -123,8 +123,7 @@ You can click the Preview link to take a look at your changes.
 <a href="http://www.github.com/nethaji-ravi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nethaji-ravi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-
-  
+[![Nethaji's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nethaji-ravi&bg_color=15321e&color=a1fc31&line=68a253&point=60e23c&area=true&hide_border=true)](https://github.com/nethaji-ravi/github-readme-activity-graph)
 
 <br/>  
 
