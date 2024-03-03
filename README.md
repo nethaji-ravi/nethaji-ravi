@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">A passionate Software developer.</h3>
+<h3 align="center">A passionate Full Stack Web developer.</h3>
 
 ----
 
