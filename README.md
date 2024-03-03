@@ -5,11 +5,10 @@
 </div>
 
 
-- 👋 Hi, I’m @nethaji-ravi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  👋 Hi, I’m @nethaji-ravi
+-  🖥️ I’m a Junior Full Stack Developer
+-  🔭 Currently Looking for a Job 
+
 
 <!---
 nethaji-ravi/nethaji-ravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -114,13 +113,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-
-
-
-
-
-
-
 ----
 <h3>My GitHub Stats:</h3>
 <!---
@@ -130,7 +122,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethaji-ravi&hide_border=true&layout=compact" align="left" style="width: 100%" />
 --->
 <div style="display: flex;">
-    <a  href="http://www.github.com/nethaji-ravi"><img style="width:49%" src="https://github-readme-stats.vercel.app/api?username=nethaji-ravi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nethaji-ravi's GitHub stats" /></a>
+    <a  href="http://www.github.com/nethaji-ravi"><img style="min-width:50%" src="https://github-readme-stats.vercel.app/api?username=nethaji-ravi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nethaji-ravi's GitHub stats" /></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethaji-ravi&hide_border=true&layout=compact&bg_color=1c1917" align="right" style="width: 40%" />
 </div>
 
