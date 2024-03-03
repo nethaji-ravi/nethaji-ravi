@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## My Skill Set  
-<!-- <table width="100%"> -->
+<!-- <table width="100%"> 
 <tr><td valign="top" width="50%"> 
 <!-- <div style="display:flex;"> 
 <div align="right" style="width: 50%;"> -->
