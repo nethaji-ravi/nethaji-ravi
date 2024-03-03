@@ -64,9 +64,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-### Badges
-<b>My GitHub Stats</b>
+----
+<h3>My GitHub Stats:</h3>
 
 <a href="http://www.github.com/nethaji-ravi"><img src="https://github-readme-stats.vercel.app/api?username=nethaji-ravi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nethaji-ravi's GitHub stats" /></a>
 
