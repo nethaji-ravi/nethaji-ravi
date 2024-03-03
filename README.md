@@ -1,4 +1,8 @@
- <div align="right">  ![Profile views counter](https://komarev.com/ghpvc/?username=nethaji-ravi&&style=flat-square)  </div>
+<div align="right"> 
+ 
+![Profile views counter](https://komarev.com/ghpvc/?username=nethaji-ravi&&style=flat-square)
+
+</div>
 
 
 - 👋 Hi, I’m @nethaji-ravi
