@@ -44,11 +44,12 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"></h3>
 </div>
 
-----
+
   
 
 <br/>  
 
+----
 
 ## Connect with me  
 <div align="center">
