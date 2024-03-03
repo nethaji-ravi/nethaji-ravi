@@ -91,9 +91,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethaji-ravi&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+<!-- </td></tr></table>  -->
 
 <br/>  
 
