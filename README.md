@@ -121,6 +121,7 @@ You can click the Preview link to take a look at your changes.
 </td><td valign="top" width="33%"> 
 <td width:50%> 
 <div align="left" style="width: 50%;"> -->
+
 ### Backend  
 <div align="left">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
