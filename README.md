@@ -105,9 +105,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## My Skill Set  
-<!-- <table><tr><td valign="top" width="33%"> -->
-
-
+<table>
+<tr><td valign="top" width="33%"> 
 <div style="display:flex;">
 <div align="right" style="width: 50%;">
 <!--### Frontend  -->
@@ -118,10 +117,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
+</td>
 
 <!--</td><td valign="top" width="33%">-->
 
-
+<td>
 <div align="left" style="width: 50%;">
 <!-- ### Backend  --> 
 <div align="left">  
@@ -134,6 +134,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
  </div>
+  </td>
 </div>
 <!-- </td><td valign="top" width="33%"> -->
 
