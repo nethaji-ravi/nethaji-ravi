@@ -28,8 +28,8 @@
 
 
 -  👋 Hi, I’m @nethaji-ravi
--  🖥️ I’m a Junior Full Stack Developer
--  🔭 Currently Looking for a Job 
+-  🖥️ I’m a Full Stack Web Developer
+-  🔭 Creating seamless user experiences with the passion of a coder and the consistency of an architect. 
 
 <br>
 <br/>  <br/>  <br/>  
