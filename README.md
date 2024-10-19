@@ -3,7 +3,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=nethaji-ravi&&style=flat-square)
 
 </div>
-<img src="https://github.com/nethaji-ravi/nethaji-ravi/blob/main/NETHAJI%20R%20(3).png" >
+<!-- <img src="https://github.com/nethaji-ravi/nethaji-ravi/blob/main/NETHAJI%20R%20(3).png" > -->
 <h3 align="center">A passionate Full Stack Web developer.</h3>
 
 ----
