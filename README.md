@@ -29,7 +29,8 @@
 
 -  👋 Hi, I’m @nethaji-ravi
 -  🖥️ I’m a Full Stack Web Developer
--  🔭 Creating seamless user experiences with the passion of a coder and the consistency of an architect. 
+-  🔭 Creating seamless user experiences with the passion of a coder and the consistency of an architect.
+-  Visit my Portfolio - <a href="https://nethaji-ravi.github.io/my-portfolio/">Portfolio</a>
 
 <br>
 <br/>  <br/>  <br/>  
