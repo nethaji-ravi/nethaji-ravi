@@ -30,7 +30,7 @@
 -  👋 Hi, I’m @nethaji-ravi
 -  🖥️ I’m a Full Stack Web Developer
 -  🔭 Creating seamless user experiences with the passion of a coder and the consistency of an architect.
--  🙋‍♂️ Visit my Portfolio - <a href="https://nethaji-portfolio.netlify.app/">Portfolio</a>
+-  🙋‍♂️ Step into my <a href="https://nethaji-portfolio.netlify.app/">Portfolio</a> to see the projects that define my skills as a developer.
 
 <br>
 <br/>  <br/>  <br/>  
